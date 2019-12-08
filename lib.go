@@ -14,7 +14,7 @@ const (
 	NAME       = "Trial By Pong"
 	MAJVERSION = 0
 	MINVERSION = 1
-	RELVERSION = 0
+	RELVERSION = 5
 )
 
 // Version returns a string that contains
